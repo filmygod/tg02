@@ -9,13 +9,9 @@
 ## Deploy in your VPS
 
 ```sh
-git clone https://github.com/arun017s/GPLink-Bot
-cd GPLink-Bot
+git clone https://github.com/filmygod/tg02
+cd tg02
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
 python3 main.py
 ```
-
-## Credits
-- [Yuuki](https://github.com/xcscxr)
-- [AIOGram](https://github.com/aiogram/aiogram)
