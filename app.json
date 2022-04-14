@@ -1,13 +1,12 @@
 {
   "name": "GPLink-Bot",
-  "description": "Get direct link from gplink",
+  "description": "Get Direct Link From GPLnks",
   "keywords": [
     "telegram",
     "gplink",
     "directlink"
   ],
-  "repository": "https://github.com/arun017s/GPLink-Bot",
-  "logo": "https://te.legra.ph/file/2512edeb7d6e102a31eed.jpg",
+  "repository": "https://github.com/filmygod/tg02",
   "env": {
     "BOT_TOKEN": {
       "description": "Get it from @Botfather",
